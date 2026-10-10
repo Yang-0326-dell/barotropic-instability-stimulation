@@ -1,0 +1,22 @@
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Large image files (keep only composite figures and key plots)
+last_frames/
+composite/
+vortex_tracking/a0.*/
+
+# Data files
+*.npz
+*.csv
+
+# Temporary files
+.DS_Store
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
