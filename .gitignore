@@ -1,4 +1,8 @@
-# Videos (now tracked in git)
+# Videos (already uploaded to git, exclude to prevent re-committing)
+*.mp4
+*.avi
+*.mov
+*.mkv
 
 # Large image files (keep only composite figures and key plots)
 last_frames/
